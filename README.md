@@ -57,6 +57,7 @@ Nextcloud runs directly on port `8081` without a reverse proxy (for now). To acc
 
 A reverse proxy and SSL setup for Nextcloud could be added later to secure the connection, just like Vaultwarden.
 
+---
 
 ### Backup
 
