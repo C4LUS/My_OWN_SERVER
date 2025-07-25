@@ -5,8 +5,8 @@ I decide to make my own server who named peanuts server to stock files, get a pa
 
 Currently, the server hosts two main apps (a third one is planned):
 
-- `Vaultwarden` – A self-hosted password manager (Bitwarden-compatible)
-- `Nextcloud` – A personal cloud platform for file storage and sharing
+- `Vaultwarden`  A self-hosted password manager (Bitwarden-compatible)
+- `Nextcloud` A personal cloud platform for file storage and sharing
 
 ## Specificities
 
