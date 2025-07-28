@@ -64,4 +64,5 @@ VaultWarden has an automated backup that copies the data volume from docker.\
 and stock it in a folder
 
 The script who made thi (auto_save_vaultwarden.sh) is call every morning at 3am using a `crontab` job.
-
+-- -
+**If you want to create your own server, go read the `SET_UP.md` file, there is a tuorial to remake this server.**
